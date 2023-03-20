@@ -5,6 +5,9 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <javadoc-paths>
+      <root url="file://$MODULE_DIR$/2-chapter/taco-cloud" />
+    </javadoc-paths>
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
